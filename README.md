@@ -2,7 +2,7 @@
 
 2° projeto do semestre: Implementação de uma Arvore binária de busca
 
-Desenvolvidos por Lucas Silva Pinto.
+Desenvolvido por Lucas Silva Pinto.
 
 # Descrição do Projeto
 Projeto desenvolvido para a disciplina Resolução de Problemas Estruturados em Computação. 
@@ -19,7 +19,9 @@ Outra opção será remover um dado, onde será printado na tela o valor removid
 
 Após baixar o projeto, para roda-lo localmente:
 
-    * Extrair a pasta do projeto e abri-la através da IDE utilizada onde tambem será possível editar os arquivos conforme necessário;
-    * Rodar a classe main com os comandos referentes a árvore;
+ * Extrair a pasta do projeto e abri-la através da IDE utilizada onde tambem será possível editar os arquivos conforme necessário;
+ * Rodar a classe Main.java com os comandos referentes a árvore;
+
+Abaixo segue um exemplo de criação de uma arvore através da classe Main:
     
 ![image](https://github.com/lucassilva11/PjBL2-ArvoreBinaria/assets/69371948/7ba6d18e-da37-4104-95b5-75c0ac6906e3)
